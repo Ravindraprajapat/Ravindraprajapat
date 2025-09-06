@@ -30,24 +30,21 @@
 
 ### 🛠️ Tech Stack & Tools
 
+<!-- 3D Tech Stack Section Start -->
 <p align="center">
-  <!-- 3D Tech Icons Start -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" style="margin: 0 8px;" alt="JavaScript 3D" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" style="margin: 0 8px;" alt="TypeScript 3D" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" style="margin: 0 8px;" alt="React 3D" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" style="margin: 0 8px;" alt="Node.js 3D" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" style="margin: 0 8px;" alt="Java 3D" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" style="margin: 0 8px;" alt="Python 3D" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" style="margin: 0 8px;" alt="HTML5 3D" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" style="margin: 0 8px;" alt="CSS3 3D" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" style="margin: 0 8px;" alt="Git 3D" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" style="margin: 0 8px; background: #fff; border-radius: 50%;" alt="GitHub 3D" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" style="margin: 0 8px;" alt="Android 3D" title="Android"/>
-  <!-- 3D Tech Icons End -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,python,html,css,git,github,android&theme=light" width="100%" alt="Skill Icons" />
 </p>
 <p align="center">
   <img src="https://github.com/Ravindraprajapat/Ravindraprajapat/assets/animation/stack-animate.gif" width="420" alt="Tech Stack Animation" />
 </p>
+<!-- 3D Tech Stack Section End -->
+
+<!-- Three.js 3D Icons Section Start -->
+<p align="center">
+  <b>Experience my stack in 3D! (Interactive Demo Below)</b><br>
+  <iframe src="https://r3f-portfolio-threejs.vercel.app/tech-showcase?names=javascript,typescript,react,nodejs,java,python,html,css,git,github,android" width="700" height="400" frameborder="0" style="border-radius:10px; margin-top: 12px;" title="3D Tech Icons by Three.js"></iframe>
+</p>
+<!-- Three.js 3D Icons Section End -->
 
 ---
 
@@ -63,13 +60,29 @@
 
 ---
 
-### 🔥 Top Projects
+### 🔥 My Top Projects (Now in 3D!)
 
-- [🌏 Country Explore](https://github.com/Ravindraprajapat/country_explore) — Explore countries of the world with interactive maps
-- [📋 Copy Paste App](https://github.com/Ravindraprajapat/Copy-paste-app) — Clipboard manager for productivity
-- [♻️ Eco Flow Builder](https://github.com/Ravindraprajapat/eco-flow-builder) — Design and simulate eco-friendly workflows
-- [🎓 LetsUpGrade Frontend Project](https://github.com/Ravindraprajapat/RavindraKumar_LetsUpGradeFrontendProject) — Frontend learning project
-- [📚 DSA in Java](https://github.com/Ravindraprajapat/Dsa-in-java-) — Data Structures & Algorithms code in Java
+<p align="center">
+  <!-- 3D Project Cards using three.js (embedded demo) -->
+  <iframe src="https://r3f-portfolio-threejs.vercel.app/projects?user=Ravindraprajapat" width="100%" height="420" frameborder="0" style="border-radius:12px; min-width:350px; max-width:800px; background:#181818;" title="3D Project Showcase"></iframe>
+</p>
+
+<!-- Attractive 3D Cards as fallback images if iframe is unsupported -->
+<div align="center">
+  <img src="https://github.com/Ravindraprajapat/Ravindraprajapat/assets/animation/3d-country-explore.png" width="160" alt="Country Explore 3D Card" />
+  <img src="https://github.com/Ravindraprajapat/Ravindraprajapat/assets/animation/3d-copy-paste.png" width="160" alt="Copy Paste App 3D Card" />
+  <img src="https://github.com/Ravindraprajapat/Ravindraprajapat/assets/animation/3d-eco-flow.png" width="160" alt="Eco Flow Builder 3D Card" />
+  <img src="https://github.com/Ravindraprajapat/Ravindraprajapat/assets/animation/3d-frontend.png" width="160" alt="LetsUpGrade Project 3D Card" />
+  <img src="https://github.com/Ravindraprajapat/Ravindraprajapat/assets/animation/3d-dsa-java.png" width="160" alt="DSA in Java 3D Card" />
+</div>
+
+<ul>
+  <li><a href="https://github.com/Ravindraprajapat/country_explore"><b>🌏 Country Explore</b></a> — Explore countries with interactive 3D globe and maps</li>
+  <li><a href="https://github.com/Ravindraprajapat/Copy-paste-app"><b>📋 Copy Paste App</b></a> — Clipboard manager, now visualized in 3D UI</li>
+  <li><a href="https://github.com/Ravindraprajapat/eco-flow-builder"><b>♻️ Eco Flow Builder</b></a> — Design eco-friendly workflows with animated 3D flows</li>
+  <li><a href="https://github.com/Ravindraprajapat/RavindraKumar_LetsUpGradeFrontendProject"><b>🎓 LetsUpGrade Frontend Project</b></a> — Modern frontend learning project with creative visuals</li>
+  <li><a href="https://github.com/Ravindraprajapat/Dsa-in-java-"><b>📚 DSA in Java</b></a> — Data Structures & Algorithms, code with interactive 3D code cards</li>
+</ul>
 
 ---
 
@@ -108,4 +121,5 @@
 - Upload your GIFs (e.g., banner_wave.gif, ravindra-coding.gif, stack-animate.gif, fireworks.gif, connect-animate.gif, rocket.gif).
 - Replace the src URLs in this README with your actual GitHub asset URLs.
 - 3D icons are included using the Devicon CDN for extra visual appeal!
+- 3D/Interactive demos powered by Three.js and React Three Fiber. Try embedding your own at https://github.com/pmndrs/react-three-fiber!
 -->
