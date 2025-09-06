@@ -31,7 +31,19 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,python,html,css,git,github,android&perline=8" />
+  <!-- 3D Tech Icons Start -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" style="margin: 0 8px;" alt="JavaScript 3D" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" style="margin: 0 8px;" alt="TypeScript 3D" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" style="margin: 0 8px;" alt="React 3D" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" style="margin: 0 8px;" alt="Node.js 3D" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" style="margin: 0 8px;" alt="Java 3D" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" style="margin: 0 8px;" alt="Python 3D" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" style="margin: 0 8px;" alt="HTML5 3D" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" style="margin: 0 8px;" alt="CSS3 3D" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" style="margin: 0 8px;" alt="Git 3D" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" style="margin: 0 8px; background: #fff; border-radius: 50%;" alt="GitHub 3D" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" style="margin: 0 8px;" alt="Android 3D" title="Android"/>
+  <!-- 3D Tech Icons End -->
 </p>
 <p align="center">
   <img src="https://github.com/Ravindraprajapat/Ravindraprajapat/assets/animation/stack-animate.gif" width="420" alt="Tech Stack Animation" />
@@ -95,4 +107,5 @@
 - Create an `assets/animation` folder in your profile repo.
 - Upload your GIFs (e.g., banner_wave.gif, ravindra-coding.gif, stack-animate.gif, fireworks.gif, connect-animate.gif, rocket.gif).
 - Replace the src URLs in this README with your actual GitHub asset URLs.
+- 3D icons are included using the Devicon CDN for extra visual appeal!
 -->
