@@ -189,56 +189,16 @@ Structured backend project demonstrating modern database management, CRUD operat
 
 ## 📊 LeetCode Stats
 
-<div align="center">
-
-### 🏆 Competitive Programming Profile
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🌐%20LeetCode%20Profile-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-      <br/><br/>
-      <a href="https://leetcode.com/u/7878364559/" target="_blank" rel="noopener noreferrer">
-        <b>Visit Profile</b>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Rank%20%2365%20Global-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="Rank" />
-      <br/><br/>
-      <b>Active Competitor</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-### 📈 Problem Solving Statistics
-
-| Difficulty | Problems Solved | Progress |
-|------------|-----------------|----------|
-| **Easy** | 241 / 946 | ![Easy Progress](https://progress-bar.dev/25/?title=Easy&width=400&color=90EE90) |
-| **Medium** | 260 / 2061 | ![Medium Progress](https://progress-bar.dev/12/?title=Medium&width=400&color=FFD700) |
-| **Hard** | 37 / 937 | ![Hard Progress](https://progress-bar.dev/4/?title=Hard&width=400&color=FF6B6B) |
-
-### 🎯 Total Problems Solved: **538**
-
-<div align="center">
-
-```
-Total Score: 538 | Contest Rating: Active | Streak: 🔥 Ongoing
-```
-
-</div>
-
-### 💡 Key Focus Areas
+<p align="center">
+  <a href="https://leetcode.com/u/7878364559/" target="_blank" rel="noopener noreferrer">
+    <img src="https://leetcard.jacoblin.cool/7878364559?theme=dark&font=ubuntu" alt="LeetCode Stats" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arrays%20%26%20Strings-00D9FF?style=flat-square&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Trees%20%26%20Graphs-00D9FF?style=flat-square&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Dynamic%20Programming-00D9FF?style=flat-square&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Greedy%20Algorithms-00D9FF?style=flat-square&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Bit%20Manipulation-00D9FF?style=flat-square&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Sliding%20Window-00D9FF?style=flat-square&labelColor=1a1b27" />
+  <a href="https://leetcode.com/u/7878364559/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐%20View%20Full%20LeetCode%20Profile-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
 </p>
 
 ---
@@ -368,17 +328,14 @@ npm run build
 ---
 
 <!--
-## Notes
-
 This README is optimized for:
 ✅ ATS & Recruiter Scanning
 ✅ Mobile-friendly rendering
 ✅ Dark theme aesthetic
-✅ Real data only (no fake achievements)
+✅ Real data only (live-fetched from LeetCode)
 ✅ Clear project descriptions
 ✅ Professional presentation
 ✅ Easy navigation
-✅ LeetCode Stats Display (Professional Format)
 
 Last Updated: 2026-05-29
 -->
