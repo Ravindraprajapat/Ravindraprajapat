@@ -58,6 +58,13 @@
   </a>
 </p>
 
+<!-- LeetCode Stats Widget -->
+<p align="center">
+  <a href="https://leetcode.com/u/7878364559/">
+    <img src="https://leetcode-badge.vercel.app/badge/7878364559" alt="LeetCode Stats" />
+  </a>
+</p>
+
 <p align="center">
   <strong>🎖️ Competitive Programming Achievements:</strong>
   <br />
@@ -252,7 +259,7 @@
 🎨 Design Features:
 - 🌈 Modern color scheme with cyan/blue accents (#00D9FF)
 - 📊 Real-time GitHub stats with Tokyo Night theme
-- 🎯 LeetCode integration and competitive programming stats
+- 🎯 LeetCode integration with live stats badge
 - 🔗 Professional badge system with shields.io
 - 📈 Activity graph visualization
 - 💼 Professional highlights and competencies
