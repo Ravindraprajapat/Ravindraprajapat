@@ -136,8 +136,6 @@ Intelligent observability platform that monitors APIs in real-time with AI-drive
 - ⚠️ Intelligent alerts and failure prediction
 - 📈 Performance tracking (latency, request rates, error rates)
 - 🔄 Live socket.io updates with WebSocket communication
-- 📋 Request history and detailed logging
-- 🎨 Interactive visualization with Recharts
 
 ---
 
@@ -154,9 +152,6 @@ Intelligent job tracking system with Kanban board, AI-powered resume generation,
 - 📄 AI-generated resume tailoring
 - 🔐 JWT authentication with secure token management
 - 📊 Application statistics and analytics
-- 🔔 Status tracking and reminders
-- 💾 MongoDB persistence with Mongoose
-- 🎨 Drag-and-drop interface
 
 ---
 
@@ -165,17 +160,14 @@ Intelligent job tracking system with Kanban board, AI-powered resume generation,
 
 AI-powered civic engagement platform for automated complaint registration using computer vision to identify public infrastructure issues.
 
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Google GenAI` `Cloudinary` `Twilio` `Leaflet Maps` `Firebase` `Tailwind CSS`
+**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Google GenAI` `Cloudinary` `Twilio` `Leaflet Maps` `Firebase`
 
 **Key Features:**
 - 📸 Image upload and AI analysis for issue identification
 - 🗺️ Interactive maps with Leaflet for location tracking
 - 🤖 Google GenAI for image-to-complaint conversion
 - 📱 Twilio SMS notifications for authorities
-- 🏢 Role-based access (Citizens, Authorities, Admins)
 - 📊 Real-time complaint tracking and statistics
-- 🔐 JWT authentication & secure file handling
-- 📧 Email notifications with Nodemailer
 
 ---
 
@@ -184,7 +176,7 @@ AI-powered civic engagement platform for automated complaint registration using 
 
 Structured backend project demonstrating modern database management, CRUD operations, relationships, and API pagination.
 
-**Tech Stack:** `Node.js` `Express.js` `PostgreSQL` `Prisma ORM` `REST API` `Socket.io`
+**Tech Stack:** `Node.js` `Express.js` `PostgreSQL` `Prisma ORM` `REST API`
 
 **Key Features:**
 - ✅ Complete CRUD operations with clean architecture
@@ -192,36 +184,66 @@ Structured backend project demonstrating modern database management, CRUD operat
 - 📄 Advanced pagination and filtering
 - 🔄 Transaction management and data integrity
 - 📊 Database optimization and indexing
-- 🎯 RESTful API best practices
-- 🧪 Structured project organization
 
 ---
 
-## 📊 DSA & Competitive Programming
+## 📊 LeetCode Stats
+
+<div align="center">
+
+### 🏆 Competitive Programming Profile
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🌐%20LeetCode%20Profile-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+      <br/><br/>
+      <a href="https://leetcode.com/u/7878364559/" target="_blank" rel="noopener noreferrer">
+        <b>Visit Profile</b>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Rank%20%2365%20Global-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="Rank" />
+      <br/><br/>
+      <b>Active Competitor</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+### 📈 Problem Solving Statistics
+
+| Difficulty | Problems Solved | Progress |
+|------------|-----------------|----------|
+| **Easy** | 241 / 946 | ![Easy Progress](https://progress-bar.dev/25/?title=Easy&width=400&color=90EE90) |
+| **Medium** | 260 / 2061 | ![Medium Progress](https://progress-bar.dev/12/?title=Medium&width=400&color=FFD700) |
+| **Hard** | 37 / 937 | ![Hard Progress](https://progress-bar.dev/4/?title=Hard&width=400&color=FF6B6B) |
+
+### 🎯 Total Problems Solved: **538**
+
+<div align="center">
+
+```
+Total Score: 538 | Contest Rating: Active | Streak: 🔥 Ongoing
+```
+
+</div>
+
+### 💡 Key Focus Areas
 
 <p align="center">
-  <a href="https://leetcode.com/u/7878364559/" target="_blank" rel="noopener noreferrer">
-    <img src="https://leetcode-badge.vercel.app/badge/7878364559?theme=dark" alt="LeetCode Stats" width="100%" style="max-width: 500px" />
-  </a>
+  <img src="https://img.shields.io/badge/Arrays%20%26%20Strings-00D9FF?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Trees%20%26%20Graphs-00D9FF?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-00D9FF?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Greedy%20Algorithms-00D9FF?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Bit%20Manipulation-00D9FF?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Sliding%20Window-00D9FF?style=flat-square&labelColor=1a1b27" />
 </p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/7878364559/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🔗%20View%20LeetCode%20Profile-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-  </a>
-</p>
-
-**Focus Areas:**
-- 🔢 Arrays & Strings | Sorting & Searching
-- 🌳 Trees & Graphs | BFS & DFS
-- 📈 Dynamic Programming | Greedy Algorithms
-- 🔗 Linked Lists & Stack/Queue
-- 🎯 Two Pointers | Sliding Window
-- 🧮 Mathematical Problems | Bit Manipulation
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ravindraprajapat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&card_width=500" alt="GitHub Stats" />
@@ -346,9 +368,7 @@ npm run build
 ---
 
 <!--
-## Snake Game Contribution 🐍
-
-[Optional: Uncomment if you want to add snake animation via GitHub Actions]
+## Notes
 
 This README is optimized for:
 ✅ ATS & Recruiter Scanning
@@ -358,6 +378,7 @@ This README is optimized for:
 ✅ Clear project descriptions
 ✅ Professional presentation
 ✅ Easy navigation
+✅ LeetCode Stats Display (Professional Format)
 
 Last Updated: 2026-05-29
 -->
