@@ -282,7 +282,7 @@ I'm passionate about collaborative development and contributing to the open-sour
 
 **📧 Email:** raviprajapati72401@gmail.com  
 **💼 LinkedIn:** [ravi-prajapat](https://www.linkedin.com/in/ravi-prajapat-b85838290)  
-**🧩 LeetCode:** [7878364559](https://leetcode.com/u/7878364559/)  
+**🧩 LeetCode:** [78783645](https://leetcode.com/u/7878364559/)  
 **💻 GitHub:** [Ravindraprajapat](https://github.com/Ravindraprajapat)  
 
 ---
